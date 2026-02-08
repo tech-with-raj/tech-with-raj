@@ -1,7 +1,6 @@
 ![Banner](Banner.png)
 
 ## 👨‍💻 Professional Summary
-
 Software Development Engineer in Test (SDET) with **4+ years of experience** in designing, developing, and maintaining scalable **test automation frameworks** for enterprise-grade web and mobile applications.
 
 Strong expertise in **UI automation, API, Mobile Testing, and CI/CD integration**, ensuring faster releases and high-quality software delivery in Agile environments.
@@ -17,14 +16,6 @@ Strong expertise in **UI automation, API, Mobile Testing, and CI/CD integration*
 - **CI/CD & DevOps:** Jenkins, GitHub Actions, GitLab CI/CD  
 - **Tools:** Git, GitHub, Bitbucket, Jira, Zephyr  
 - **Programming:** Java, Python 
-
----
-
-## 📌 Currently Working On
-
-- Building scalable automation frameworks  
-- Improving CI/CD execution with Jenkins  
-- Preparing for SDET interviews (Java + DSA)
 
 ---
 
