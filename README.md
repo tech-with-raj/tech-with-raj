@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rajasekar K</h1>
-<h3 align="center">SDET | Automation Engineer | Java • Selenium • API Testing • CI/CD</h3>
+<h3 align="center">SDET at TCS</h3>
 
 ---
 
