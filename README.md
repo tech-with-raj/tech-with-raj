@@ -6,6 +6,7 @@ Software Development Engineer in Test (SDET) with **4+ years of experience** in 
 Strong expertise in **UI automation, API, Mobile Testing, and CI/CD integration**, ensuring faster releases and high-quality software delivery in Agile environments.
 
 
+
 ## 🛠 Core Technical Skills
 
 - **Automation Testing:** Selenium WebDriver, TestNG, Cucumber (BDD)  
@@ -15,6 +16,7 @@ Strong expertise in **UI automation, API, Mobile Testing, and CI/CD integration*
 - **CI/CD & DevOps:** Jenkins, GitHub Actions, GitLab CI/CD  
 - **Tools:** Git, GitHub, Bitbucket, Jira, Zephyr  
 - **Programming:** Java, Python 
+
 
 
 ## 🚀 Featured Projects
@@ -32,11 +34,13 @@ Java Coding + DSA Practice for SDET Interview Preparation
 👉 Repository: https://github.com/tech-with-raj/LogicBuilding
 
 
+
 ## 📜 Certifications
 
 - ISTQB Certified Tester – Foundation Level (CTFL)  
 - ISTQB Advanced – Test Automation Engineer  
 - AWS Certified Cloud Practitioner  
+
 
 
 ## 📫 Connect With Me
