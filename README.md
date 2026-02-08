@@ -62,7 +62,7 @@
 
 ## 📈 GitHub Stats
 
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=tech-with-raj&show_icons=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tech-with-raj)
 
 ---
 
