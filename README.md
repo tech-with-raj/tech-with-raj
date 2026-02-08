@@ -50,4 +50,4 @@ Java Coding + DSA Practice for SDET Interview Preparation
 - GitHub: https://github.com/tech-with-raj  
 
 
-  ⭐ Open to SDET opportunities.
+⭐ Open to SDET opportunities.
