@@ -62,7 +62,9 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tech-with-raj)
+![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tech-with-raj&show_icons=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-with-raj&layout=compact)
 
 ---
 
