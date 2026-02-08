@@ -1,8 +1,4 @@
 ![Banner](Banner.png)
-
-<h1 align="center">Hi, I'm Rajasekar K</h1>
-<h3 align="center">SDET at TCS</h3>
-
 ---
 
 ## 👨‍💻 Professional Summary
