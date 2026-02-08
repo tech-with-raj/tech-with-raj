@@ -1,70 +1,59 @@
-<h1 align="center">Hi 👋, I'm Rajasekar K</h1>
-<h3 align="center">SDET</h3>
+<h1 align="center">Hi, I'm Rajasekar K</h1>
+<h3 align="center">SDET | Automation Engineer | Java • Selenium • API Testing • CI/CD</h3>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Professional Summary
 
-🔹 Software Development Engineer in Test (SDET) with **4+ years of experience**  
-🔹 Strong expertise in building **Hybrid Automation Frameworks**  
-🔹 Skilled in **UI + API + Mobile Automation Testing**  
-🔹 Passionate about **Interview Preparation, DSA, and Continuous Learning**  
-🔹 Currently working at **TCS, Chennai**
+Software Development Engineer in Test (SDET) with **4+ years of experience** in designing, developing, and maintaining scalable **test automation frameworks** for enterprise-grade web and mobile applications.
+
+Strong expertise in **UI automation, API, Mobile Testing, and CI/CD integration**, ensuring faster releases and high-quality software delivery in Agile environments.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠 Core Technical Skills
 
-### 💻 Automation & Testing
-- Selenium WebDriver  
-- TestNG / Cucumber BDD  
-- Maven Framework Design  
-- Page Object Model (POM)  
-- Data Driven & Keyword Driven Testing  
-
-### 🌐 API Testing
-- Rest Assured  
-- Postman  
-- JSON Schema Validation  
-
-### ⚙️ DevOps & CI/CD
-- Jenkins Pipelines  
-- Git & GitHub  
-- Docker Basics  
-
-### 📌 Programming
-- Core Java  
-- Collections + OOP  
-- DSA for Interviews  
+- **Automation Testing:** Selenium WebDriver, TestNG, Cucumber (BDD)  
+- **API Automation:** REST Assured, Postman  
+- **Mobile Testing:** Appium, Perfecto
+- **Framework Development:** Hybrid Frameworks, Page Object Model, Data-Driven Testing  
+- **CI/CD & DevOps:** Jenkins, GitHub Actions, GitLab CI/CD  
+- **Tools:** Git, GitHub, Bitbucket, Jira, Zephyr  
+- **Programming:** Java, Python 
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### ✅ TestAutomationFramework  
-🚀 End-to-End Hybrid Framework for UI + API Automation  
-🔹 Java + Selenium + TestNG + RestAssured  
-🔹 Reporting with Extent Reports  
-🔹 Jenkins Execution Ready  
+### 🔹 TestAutomationFramework
+End-to-End Automation Framework for UI + API + Mobile Testing  
+**Tech Stack:** Java | Selenium | TestNG | REST Assured | Appium | Maven | Jenkins  
 
-👉 Repo: https://github.com/tech-with-raj/TestAutomationFramework
+👉 Repository: https://github.com/tech-with-raj/TestAutomationFramework
 
 ---
 
-### ✅ LogicBuilding  
-🔥 Java DSA & Coding Practice for Interview Preparation  
-🔹 Arrays, Strings, Collections  
-🔹 Most asked SDET coding questions  
+### 🔹 LogicBuilding
+Java Coding + DSA Practice for SDET Interview Preparation  
 
-👉 Repo: https://github.com/tech-with-raj/LogicBuilding
+👉 Repository: https://github.com/tech-with-raj/LogicBuilding
+
+---
+
+## 📜 Certifications
+
+- ISTQB Certified Tester – Foundation Level (CTFL)  
+- ISTQB Advanced – Test Automation Engineer  
+- AWS Certified Cloud Practitioner  
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/rajasekar-k-929b7718b  
-- 📧 Email: rajasekar.k0703@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/rajasekar-k-929b7718b  
+- Email: rajasekar.k0703@gmail.com  
+- GitHub: https://github.com/tech-with-raj  
 
 ---
 
-⭐ Recruiters: I am open to SDET opportunities.
+⭐ Open to SDET opportunities.
