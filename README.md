@@ -1,5 +1,4 @@
 ![Banner](Banner.png)
----
 
 ## 👨‍💻 Professional Summary
 
@@ -18,6 +17,14 @@ Strong expertise in **UI automation, API, Mobile Testing, and CI/CD integration*
 - **CI/CD & DevOps:** Jenkins, GitHub Actions, GitLab CI/CD  
 - **Tools:** Git, GitHub, Bitbucket, Jira, Zephyr  
 - **Programming:** Java, Python 
+
+---
+
+## 📌 Currently Working On
+
+- Building scalable automation frameworks  
+- Improving CI/CD execution with Jenkins  
+- Preparing for SDET interviews (Java + DSA)
 
 ---
 
