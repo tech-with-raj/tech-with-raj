@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajasekar K</h1>
-<h3 align="center">SDET | Test Automation Engineer | Java + Selenium + API Automation</h3>
+<h3 align="center">SDET</h3>
 
 ---
 
@@ -60,19 +60,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tech-with-raj&show_icons=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-with-raj&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/rajasekar-k-929b7718b  
-- 📧 Email: rajasekark.tech@gmail.com  
+- 📧 Email: rajasekar.k0703@gmail.com  
 
 ---
 
-⭐ Recruiters: I am open to SDET opportunities in Automation Testing & QA Engineering.
+⭐ Recruiters: I am open to SDET opportunities.
