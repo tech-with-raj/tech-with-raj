@@ -5,7 +5,6 @@ Software Development Engineer in Test (SDET) with **4+ years of experience** in 
 
 Strong expertise in **UI automation, API, Mobile Testing, and CI/CD integration**, ensuring faster releases and high-quality software delivery in Agile environments.
 
----
 
 ## 🛠 Core Technical Skills
 
@@ -17,7 +16,6 @@ Strong expertise in **UI automation, API, Mobile Testing, and CI/CD integration*
 - **Tools:** Git, GitHub, Bitbucket, Jira, Zephyr  
 - **Programming:** Java, Python 
 
----
 
 ## 🚀 Featured Projects
 
@@ -27,14 +25,12 @@ End-to-End Automation Framework for UI + API + Mobile Testing
 
 👉 Repository: https://github.com/tech-with-raj/TestAutomationFramework
 
----
 
 ### 🔹 LogicBuilding
 Java Coding + DSA Practice for SDET Interview Preparation  
 
 👉 Repository: https://github.com/tech-with-raj/LogicBuilding
 
----
 
 ## 📜 Certifications
 
@@ -42,7 +38,6 @@ Java Coding + DSA Practice for SDET Interview Preparation
 - ISTQB Advanced – Test Automation Engineer  
 - AWS Certified Cloud Practitioner  
 
----
 
 ## 📫 Connect With Me
 
@@ -50,6 +45,5 @@ Java Coding + DSA Practice for SDET Interview Preparation
 - Email: rajasekar.k0703@gmail.com  
 - GitHub: https://github.com/tech-with-raj  
 
----
 
 ⭐ Open to SDET opportunities.
