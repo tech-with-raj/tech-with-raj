@@ -21,17 +21,22 @@ Strong expertise in **UI automation, API, Mobile Testing, and CI/CD integration*
 
 ## 🚀 Featured Projects
 
-### 🔹 TestAutomationFramework
-End-to-End Automation Framework for UI + API + Mobile Testing  
+### 🔹 TestAutomationFramework  
+End-to-End Automation Framework for **UI + API + Mobile Testing**  
 **Tech Stack:** Java | Selenium | TestNG | REST Assured | Appium | Maven | Jenkins  
+👉 Repository: https://github.com/tech-with-raj/TestAutomationFramework  
 
-   👉 Repository: https://github.com/tech-with-raj/TestAutomationFramework
+---
 
+### 🔹 Java Engineering for SDET  
+Complete Core Java 
+👉 Repository: https://github.com/tech-with-raj/java-engineering-for-sdet  
 
-### 🔹 LogicBuilding
-Java Coding + DSA Practice for SDET Interview Preparation  
+---
 
-   👉 Repository: https://github.com/tech-with-raj/LogicBuilding
+### 🔹 DSA for SDET  
+Structured Data Structures & Algorithms Practice  
+👉 Repository: https://github.com/tech-with-raj/dsa-for-sdet  
 
 
 
