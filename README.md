@@ -19,25 +19,25 @@ Domain focus: LLM evaluation, adversarial testing, and BFSI compliance automatio
 
 ## 🛠️ Technical skills
 
-**AI / LLM Testing:**
+**AI / LLM Testing:-**
 DeepEval · RAGAS · Garak · PyRIT · Anthropic SDK · OpenAI SDK · LangChain
 
-**Test Automation:**
+**Test Automation:-**
 Selenium WebDriver · TestNG · Cucumber (BDD) · JUnit · pytest · Appium · Perfecto
 
-**API Testing:**
+**API Testing:-**
 REST Assured · Postman · Data-driven testing (Excel & JSON)
 
-**CI/CD & DevOps:**
+**CI/CD & DevOps:-**
 Jenkins · GitHub Actions · GitLab CI/CD · Maven · Bash scripting
 
-**Languages:**
+**Languages:-**
 Java · Python
 
-**Tools & Test Management:**
+**Tools & Test Management:-**
 Zephyr · Jira · Git · GitHub · Bitbucket
 
-**Frameworks & Design Patterns:**
+**Frameworks & Design Patterns:-**
 Hybrid Framework · Page Object Model · Data-Driven Testing · BDD
 
 ---
