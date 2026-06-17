@@ -5,7 +5,7 @@ Software Development Engineer in Test (SDET) with **4+ years of experience** in 
 
 Strong expertise in **UI automation, API, Mobile Testing, and CI/CD integration**, ensuring faster releases and high-quality software delivery in Agile environments.
 
-
+---
 
 ## 🛠 Core Technical Skills
 
