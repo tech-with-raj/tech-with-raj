@@ -27,12 +27,12 @@ End-to-End Automation Framework for **UI + API + Mobile Testing**
 Repository: https://github.com/tech-with-raj/TestAutomationFramework  
 
 
-### 🔹 Java Engineering for SDET  
+### Java Engineering for SDET  
 Complete Core Java                                                              
 Repository: https://github.com/tech-with-raj/java-engineering-for-sdet  
 
 
-### 🔹 DSA for SDET  
+### DSA for SDET  
 Structured Data Structures & Algorithms Practice  
 Repository: https://github.com/tech-with-raj/dsa-for-sdet  
 
