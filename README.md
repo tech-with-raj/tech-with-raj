@@ -1,13 +1,13 @@
 ![Banner](Banner.png)
 
-## 👨‍💻 Professional Summary
+## Professional Summary
 Software Development Engineer in Test (SDET) with **4+ years of experience** in designing, developing, and maintaining scalable **test automation frameworks** for enterprise-grade web and mobile applications.
 
 Strong expertise in **UI automation, API, Mobile Testing, and CI/CD integration**, ensuring faster releases and high-quality software delivery in Agile environments.
 
 ---
 
-## 🛠 Core Technical Skills
+## Core Technical Skills
 
 - **Automation Testing:** Selenium WebDriver, TestNG, Cucumber (BDD)  
 - **API Automation:** REST Assured, Postman  
@@ -19,7 +19,7 @@ Strong expertise in **UI automation, API, Mobile Testing, and CI/CD integration*
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### TestAutomationFramework  
 End-to-End Automation Framework for **UI + API + Mobile Testing**  
@@ -38,7 +38,7 @@ Repository: https://github.com/tech-with-raj/dsa-for-sdet
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - ISTQB Certified Tester – Foundation Level (CTFL)  
 - ISTQB Advanced – Test Automation Engineer  
@@ -46,7 +46,7 @@ Repository: https://github.com/tech-with-raj/dsa-for-sdet
 
 &nbsp;
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/rajasekar-k-929b7718b  
 - Email: rajasekar.k0703@gmail.com  
