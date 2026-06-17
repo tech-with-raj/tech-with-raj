@@ -17,7 +17,7 @@ Strong expertise in **UI automation, API, Mobile Testing, and CI/CD integration*
 - **Tools:** Git, GitHub, Bitbucket, Jira, Zephyr  
 - **Programming:** Java, Python 
 
-
+---
 
 ## 🚀 Featured Projects
 
