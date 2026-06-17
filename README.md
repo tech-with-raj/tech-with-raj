@@ -21,7 +21,7 @@ Strong expertise in **UI automation, API, Mobile Testing, and CI/CD integration*
 
 ## 🚀 Featured Projects
 
-🔹 TestAutomationFramework  
+### TestAutomationFramework  
 End-to-End Automation Framework for **UI + API + Mobile Testing**  
 **Tech Stack:** Java | Selenium | TestNG | REST Assured | Appium | Maven | Jenkins  
 Repository: https://github.com/tech-with-raj/TestAutomationFramework  
