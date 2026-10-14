@@ -14,8 +14,6 @@
 
 I'm a **Software Development Engineer in Test (SDET) with 4+ years of experience** building and improving test automation for enterprise web, mobile, and API applications. At Tata Consultancy Services, I have worked on Citi projects across functional and regression testing.
 
-My experience includes maintaining **300+ UI and API test cases**, supporting **16+ production releases**, and optimizing regression suites to reduce execution time by **30%**. I care about reliable software, maintainable automation, and quality practices that help teams release with confidence.
-
 I’m now expanding from software quality engineering into **AI Engineering**, with a long-term goal of specializing in **Agentic AI and autonomous systems**. My current learning focus includes Python, backend development, LLM applications, RAG, tool use, evaluation, security, and observability. These are learning areas—not claims of production AI experience.
 
 ## What I work with
